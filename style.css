@@ -6,7 +6,7 @@ h1 {border:solid 3px brown;
 }
 b {color:red
 }
-b {font-size: 150%;
+b {font-size: 240%;
 }
 b {text-align: center;
 }
@@ -14,23 +14,23 @@ h1 {text-align: center;
 }
 p {text-align: center;
 }
-p {font-size: 95%;
+p {font-size: 200%;
 }
-#a {margin-left: 30%;
+#a {margin-left: 20%;
 }
-#b {margin-left: 30%;
+#b {margin-left: 20%;
 }
-#c {margin-left: 30%;
+#c {margin-left: 20%;
 }
-#d {margin-left: 30%;
+#d {margin-left: 20%;
 }
-#e {margin-left: 30%;
+#e {margin-left: 20%;
 }
-#f {margin-left: 30%;
+#f {margin-left: 20%;
 }
-#g {width: 30%;
+#g {width: 20%;
 }
-#h {width: 30%;
+#h {width: 20%;
 }
 body {background-color: rgb(0, 0, 0);}
 
